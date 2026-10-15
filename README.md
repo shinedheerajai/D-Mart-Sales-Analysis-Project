@@ -1,0 +1,1 @@
+This Power BI dashboard analyzes a D-Mart retail store's performance from 2023 to 2025 across five product categories and three customer segments, tracking key metrics including profit, sales revenue, order volume, unit prices, average transaction values, MoM, and YoY growth
