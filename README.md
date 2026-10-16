@@ -29,4 +29,7 @@ Jupyter Notebook
 Power BI  
 Anaconda  
 https://nb.anaconda.com/jupyterhub/user/c16b3a32-45a5-4461-b553-ebc8520d6417/lab/tree/My%20Python%20Prgramming/Projects/Dmart%20Data%20Analysis.ipynb?
-Detail D-Mart.png
+<img width="796" height="443" alt="Desktop D-Mart" src="https://github.com/user-attachments/assets/1d63b40a-9616-4836-a9c1-f313331a96c3" />
+<img width="792" height="443" alt="Detail D-Mart" src="https://github.com/user-attachments/assets/4309274e-3a1b-4dce-9253-06e81090dfb4" />
+
+
